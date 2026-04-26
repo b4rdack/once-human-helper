@@ -2,6 +2,7 @@
 type: page
 slug: pec-way-winter
 title: "Особенности сценария Путь Зимы"
+description: "Основные отличия от других сценариев Once Human"
 ---
 
 # Сценарий: Путь Зимы
