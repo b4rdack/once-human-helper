@@ -1,9 +1,9 @@
 site:
   id: default
-  base_url: "http://127.0.0.1:8080/" # must end with /
+  base_url: "https://b4rdack.github.io/once-human-helper/" # must end with /
   media_base_url: "http://127.0.0.1:8080/media/"
   title: "Once Human Helper"
-  description: "Template blog with hubs and linked articles."
+  description: "Помощь по Once Human."
   default_og_image: "/assets/notepub.jpg"
 content:
   source: "local"
