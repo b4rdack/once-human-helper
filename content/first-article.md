@@ -5,7 +5,6 @@ title: "First Article"
 description: "A short note showing basic structure and link patterns."
 hub:
   - "content-architecture"
-  - "seo"
 order: 1
 related:
   - "second-article"
