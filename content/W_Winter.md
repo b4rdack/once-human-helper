@@ -4,7 +4,7 @@ slug: way-winter
 title: "Путь Зимы"
 description: "Все что нужно знать о сценарии "Путь зимы" и как выживать на нём."
 hub:
-  - "scenarios"
+  - scenarios
 ---
 
 # Сценарий: Путь Зимы
