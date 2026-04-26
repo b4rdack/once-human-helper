@@ -6,15 +6,16 @@ description: "Гайды, сборки, обзоры."
 ---
 # Once Human Helper
 
-Welcome to this demo blog content set.
+Добро пожаловать на сайт русскоговорящего сообщества по игре Once Human
 
-This template shows a basic content layout:
+Здесь ты сможешь найти:
+- сборки на различные оружия
+- гайды по основным механикам игры
+- гайды по основым механикам каждого сценария
 
-- home page
-- topic hubs
-- linked articles
-- search page
+У нас есть свой [чат в телеграмме](https://t.me/chat_once_human)
+Кроме этого в телеграме у нас есть свой бот-помощник @OHHelper_bot
 
-Use these pages as a starting point and adapt them to your own topics.
+Пообщаться с нами в [Discord](https://discord.gg/8eU4cKBGNm)
 
 ![logo](https://cdn.discordapp.com/attachments/1417205219745468557/1497959875907551343/d7a94d4639c06c30.png?ex=69ef6b59&is=69ee19d9&hm=1b764d13ebadeb1b8f6e94f9779fc9b076f9f3e2e3b4e3374870d5f406dea5d9&)
