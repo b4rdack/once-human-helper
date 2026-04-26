@@ -1,8 +1,8 @@
 {
-  "name": "Demo Blog",
-  "short_name": "Demo",
-  "description": "Template blog powered by Notepub.",
-  "lang": "en",
+  "name": "Once Human Helper",
+  "short_name": "OHH",
+  "description": "Сайт создан с помощью Notepub.",
+  "lang": "ru",
   "id": "/",
   "start_url": "/",
   "scope": "/",
