@@ -4,7 +4,7 @@ slug: home
 title: "Ваш помощник по Once Human"
 description: "Гайды, сборки, обзоры."
 ---
-# Once Human Helper
+# Once Human Helper. Твой помощник в мире Once Human
 
 Добро пожаловать на сайт русскоговорящего сообщества по игре Once Human
 
