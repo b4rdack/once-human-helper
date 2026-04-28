@@ -1,6 +1,5 @@
 ---
 type: hub
-slug: workflow-practices
 title: "Workflow Practices"
 description: "Approaches for organizing day-to-day content operations."
 favorite: true
