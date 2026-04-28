@@ -1,6 +1,5 @@
 ---
 type: hub
-slug: content-architecture
 title: "Content Architecture"
 description: "Principles for structuring pages, navigation, and relationships."
 favorite: true
