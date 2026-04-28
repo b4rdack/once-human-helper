@@ -1,14 +1,14 @@
-# Demo Blog
+# Once Human Helper
 
-Template content site for documentation and blog-style pages.
+Помощник по игре Once Human
 
 Base URL:
-- https://example.com/
+- https://b4rdack.github.io/once-human-helper/
 
 Preferred machine-readable source:
-- https://example.com/llms-full.txt
+- https://b4rdack.github.io/once-human-helper/llms-full.txt
 
 Entry points:
-- Home: https://example.com/
-- Search index: https://example.com/search.json
-- Sitemap: https://example.com/sitemap.xml
+- Home: https://b4rdack.github.io/once-human-helper/
+- Search index: https://b4rdack.github.io/once-human-helper/search.json
+- Sitemap: https://b4rdack.github.io/once-human-helper/sitemap.xml
