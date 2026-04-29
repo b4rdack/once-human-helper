@@ -1,4 +1,4 @@
-# Demo Blog - Full LLM Index
+# Once Human Helper - Full LLM Index
 
 ## Purpose
 Neutral starter content for a template blog and knowledge site.
@@ -8,10 +8,10 @@ Neutral starter content for a template blog and knowledge site.
 - Behavior rules in `rules.yaml`
 
 ## Routes
-- Home: https://example.com/
-- Search page: https://example.com/search/
+- Home: https://b4rdack.github.io/once-human-helper/
+- Search page: https://b4rdack.github.io/once-human-helper/search/
 
 ## Discovery and indexing
-- Sitemap: https://example.com/sitemap.xml
-- Search JSON: https://example.com/search.json
-- LLM index: https://example.com/llms.txt
+- Sitemap: https://b4rdack.github.io/once-human-helper/sitemap.xml
+- Search JSON: https://b4rdack.github.io/once-human-helper/search.json
+- LLM index: https://b4rdack.github.io/once-human-helper/llms.txt
