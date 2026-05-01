@@ -8,6 +8,7 @@ hub:
 order: 1
 related:
   - "builds-1"
+  - "builds-2"
 ---
 
 ## Введение в билдостроение
