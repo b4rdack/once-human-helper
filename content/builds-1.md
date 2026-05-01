@@ -3,6 +3,8 @@ type: article
 slug: builds-1
 title: "Выбор экипировки"
 description: "Какие билды бывают и на чем они строятся"
+related:
+  - "builds-2"
 ---
 
 ## Выбор экипировки
