@@ -8,6 +8,7 @@ hub:
 related:
   - "winter-1"
   - "winter-2"
+  - "winter-3"
 order: 1
 ---
 ![winter_logo](https://cdn.discordapp.com/attachments/1500166345587822604/1500166492858351666/0502.png?ex=69f7726b&is=69f620eb&hm=c05ef70ce82bce8212c396a770377c458f7a0deca7e522fe6528e8b02715fb12&)
