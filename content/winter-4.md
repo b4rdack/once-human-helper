@@ -8,10 +8,10 @@ order: 4
 ![logo4](https://cdn.discordapp.com/attachments/1500166345587822604/1500166493709795388/0504.jpeg?ex=69f7726b&is=69f620eb&hm=661e869ef84b7337c112671fd1b7fd8a787f12a7b6487cd0d222aa14eee68718&)
 **Хаосиум хаб** – сооружение это стационарное, региональное сооружение. В зависимости от количества помещенных в него сердец хаосиума игрок и игроки в регионе действия хаба.
 
-![hh-map](https://cdn.discordapp.com/attachments/1417205219745468557/1433563425308409926/image.png?ex=69f710ba&is=69f5bf3a&hm=d17098e9665bd8f07a2d1497845ee8b76f1a0d512f61620ff1987f8b099c6f0a&)
-Пример хаосиум хаба на карте
+![hh-map](https://cdn.discordapp.com/attachments/1417205219745468557/1433563425308409926/image.png?ex=69f710ba&is=69f5bf3a&hm=d17098e9665bd8f07a2d1497845ee8b76f1a0d512f61620ff1987f8b099c6f0a&)  
+Пример хаосиум хаба на карте  
 
-![hh-view](https://cdn.discordapp.com/attachments/1417205219745468557/1433563086677213275/image.png?ex=69f7106a&is=69f5beea&hm=2bde9de93f5a3cac87302be9df4392da329996d8ae2479937e59975af9ac0da1&)
+![hh-view](https://cdn.discordapp.com/attachments/1417205219745468557/1433563086677213275/image.png?ex=69f7106a&is=69f5beea&hm=2bde9de93f5a3cac87302be9df4392da329996d8ae2479937e59975af9ac0da1&)  
 Внешний вид хаба не отличается от вида обычной тепловой вышки  
 
 **Баффы хаба бывают двух видов:**
