@@ -1,7 +1,7 @@
 ---
 type: article
 slug: builds-0
-title: "Введение в билдостроение"
+title: "Билдостроение"
 description: "Какие билды бывают и на чем они строятся"
 hub:
   - "theory"
