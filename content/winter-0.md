@@ -5,6 +5,8 @@ title: "Путь Зимы"
 description: "Механики сценария «Путь зимы»"
 hub:
   - "	scenarios"
+related:
+  - "winter-1"
 order: 1
 ---
 ## СЦЕНАРИЙ «ПУТЬ ЗИМЫ»
