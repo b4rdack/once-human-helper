@@ -35,9 +35,9 @@
 <section class="section blog">
   <div class="blog-header">
     <h2>Статьи</h2>
-    {{- $hubs := .Collections.home_hubs.Items }}
     {{- if $hubs }}
     <div class="hub-filters" data-hub-filters>
+      {{- range $hubs }}
       <button class="hub-pill" type="button" data-hub="{{ .Slug }}" data-hub-title="{{ .Title }}" data-hub-description="{{ .Description }}">{{ .Title }}</button>
       {{- end }}
     </div>
