@@ -10,9 +10,6 @@ related:
   - "builds-1"
   - "builds-2"
 ---
-
-## Введение в билдостроение
-
 ![builds-logo](https://cdn.discordapp.com/attachments/1499484861906555125/1499484944832008299/0300.jpg?ex=69f5a06d&is=69f44eed&hm=eeeaf571219534b55122e8b2edeea162c2575dd19e15165757e62eb7d47f80f6&)
 
 **Билды бывают двух направлений:**  
