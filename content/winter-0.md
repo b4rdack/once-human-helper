@@ -1,7 +1,7 @@
 ---
 type: article
 slug: winter-0
-title: ""
+title: "Путь Зимы"
 description: "Механики сценария «Путь зимы»"
 hub:
   - "	scenarios"
