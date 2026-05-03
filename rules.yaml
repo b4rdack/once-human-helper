@@ -122,11 +122,14 @@ collections:
     materialize: false
     link: "related"
     from_slug: "{{ page.slug }}"
+    where:
+      all:
+        - fm_eq: { key: "draft", value: false }    
     sort:
       by: "title"
       dir: "asc"
       nulls_last: true
-    limit: 12
+    limit: 1
 
   articles_by_tag:
     kind: "filter"
