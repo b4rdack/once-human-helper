@@ -124,7 +124,7 @@ collections:
     from_slug: "{{ page.slug }}"
     where:
       all:
-        - fm_eq: { key: "draft", value: false }    
+        - fm_eq: { key: "draft", value: false }
     sort:
       by: "title"
       dir: "asc"
