@@ -132,6 +132,11 @@ collections:
     kind: "filter"
     materialize: false
     limit: 500
+    where:
+      all:
+        - fm_eq: { key: "draft", value: false }
+        - type_in: ["article"]
+    limit: 500
     group_by:
       by: "fm.tags"
       multi: true
