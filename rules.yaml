@@ -88,32 +88,6 @@ links:
       case: "insensitive"
 
 collections:
-  home_hubs:
-    kind: "filter"
-    materialize: false
-    where:
-      all:
-        - fm_eq: { key: "draft", value: false }
-        - type_in: ["hub"]
-    sort:
-      by: "title"
-      dir: "asc"
-      nulls_last: true
-    limit: 50
-
-  home_articles:
-    kind: "filter"
-    materialize: false
-    where:
-      all:
-        - fm_eq: { key: "draft", value: false }
-        - type_in: ["article"]
-    sort:
-      by: "fm.order"
-      dir: "asc"
-      nulls_last: true
-    limit: 50
-
   home_favorites:
     kind: "filter"
     materialize: false
