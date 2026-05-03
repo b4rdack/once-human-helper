@@ -129,7 +129,7 @@ collections:
       by: "title"
       dir: "asc"
       nulls_last: true
-    limit: 1
+    limit: 12
 
   articles_by_tag:
     kind: "filter"
