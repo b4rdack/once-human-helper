@@ -48,32 +48,4 @@
       <p class="muted" data-blog-description>Выберите другую интересующую категорию для фильтра</p>
       </div>
   </div>
-
-  {{- $articles := .Collections.home_articles.Items }}
-  {{- if $articles }}
-  <div class="grid blog-grid">
-    {{- range $articles }}
-    <article class="card blog-card" data-article-card data-hubs="{{- range $i, $hub := .FM.hub -}}{{- if $i }} {{ end -}}{{- $hub -}}{{- end -}}">
-      <a class="blog-link" href="{{ $.BaseURL }}{{ .Path }}">
-        {{- if .FM.image }}
-        {{- $img := .FM.image }}
-        {{- if eq (printf "%.1s" $img) "/" }}
-        <img class="blog-image" src="{{ $.BaseURL }}{{ $img }}" alt="{{ .Title }}">
-        {{- else }}
-        <img class="blog-image" src="{{ $img }}" alt="{{ .Title }}">
-        {{- end }}
-        {{- else }}
-        <img class="blog-image" src="{{ $.AssetsBase }}/placeholder.svg" alt="">
-        {{- end }}
-        <div class="blog-body">
-          <h3>{{ .Title }}</h3>
-          {{- if .Description }}<p class="muted">{{ .Description }}</p>{{- end }}
-        </div>
-      </a>
-    </article>
-    {{- end }}
-  </div>
-  {{- else }}
-  <p class="muted">Список статей на данный момент пуст</p>
-  {{- end }}
 </section>
