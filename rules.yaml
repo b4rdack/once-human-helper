@@ -91,6 +91,11 @@ collections:
   home_favorites:
     kind: "filter"
     materialize: false
+    where:
+      all:
+        - fm_eq: { key: "draft", value: false }
+        - fm_eq: { key: "favorite", value: true }
+        - type_in: ["page", "article", "hub"]
     sort:
       by: "title"
       dir: "asc"
