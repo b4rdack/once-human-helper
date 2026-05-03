@@ -131,7 +131,6 @@ collections:
   articles_by_tag:
     kind: "filter"
     materialize: false
-    limit: 500
     where:
       all:
         - fm_eq: { key: "draft", value: false }
